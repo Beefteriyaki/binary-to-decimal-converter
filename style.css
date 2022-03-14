@@ -1,0 +1,30 @@
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: chartreuse;
+  align-content: center;
+  margin-left: 25rem;
+  font-size: 3rem;
+}
+
+.Binary {
+  background-color: aliceblue;
+  margin-top: 8rem;
+  margin-left: 30rem;
+}
+
+.converter {
+  box-sizing: border-box;
+  width: 5rem;
+  height: 1.5rem;
+  margin-left: 2rem;
+}
+
+.Decimal {
+  box-sizing: border-box;
+  padding: 2rem;
+  color: aqua;
+}
+
+body {
+  background-color: black;
+}
